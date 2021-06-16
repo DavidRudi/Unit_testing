@@ -1,0 +1,1 @@
+from . import fal_pricelist_test

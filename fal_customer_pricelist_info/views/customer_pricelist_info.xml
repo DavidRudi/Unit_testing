@@ -1,0 +1,15 @@
+<odoo>
+	<record id="product_pricelist_view_inherits" model="ir.ui.view">
+	    <field name="name">product.pricelist.form.inherit</field>
+	    <field name="model">product.pricelist</field>
+	    <field name="inherit_id" ref="product.product_pricelist_view" />
+	    <field name="arch" type="xml">
+	    	<xpath expr="//tree/field[@name='date_end']" position='after'>
+	    		 <field name="customer_name" attrs="{'invisible': [('product_id', '=', False)]}"/>
+	    		 <field name="customer_ean" attrs="{'invisible': [('product_id', '=', False)]}"/>
+	    		 <field name="customer_reference" attrs="{'invisible': [('product_id', '=', False)]}"/>
+	    	</xpath>
+	    </field>
+	</record>
+</odoo>
+
