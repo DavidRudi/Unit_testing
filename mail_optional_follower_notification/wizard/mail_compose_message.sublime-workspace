@@ -1,0 +1,512 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"the",
+				"thread"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"user",
+				"user_input"
+			],
+			[
+				"gro",
+				"group"
+			],
+			[
+				"questi",
+				"question_id"
+			],
+			[
+				"que",
+				"question_id"
+			],
+			[
+				"key",
+				"key_func"
+			],
+			[
+				"form",
+				"formula_res"
+			],
+			[
+				"pro",
+				"product_qty"
+			],
+			[
+				"pytho",
+				"python_code"
+			],
+			[
+				"para",
+				"parameter"
+			],
+			[
+				"act",
+				"action_open_reconcile"
+			],
+			[
+				"journal",
+				"journal_id"
+			],
+			[
+				"journ",
+				"journal_id"
+			],
+			[
+				"pyth",
+				"python_code"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"sto",
+				"stock_picking"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"da",
+				"date_done"
+			],
+			[
+				"mo",
+				"move_lines"
+			],
+			[
+				"MOV",
+				"move_lines"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"move_id",
+				"move_ids_without_package"
+			],
+			[
+				"mov",
+				"move"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"for",
+				"force_delivery_date"
+			],
+			[
+				"force",
+				"force_date"
+			],
+			[
+				"move",
+				"moves"
+			],
+			[
+				"merg",
+				"merge_into"
+			],
+			[
+				"mer",
+				"merge_into"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"pemi",
+				"peminjaman_id"
+			],
+			[
+				"buku",
+				"buku_id"
+			],
+			[
+				"pem",
+				"peminjaman_id"
+			],
+			[
+				"daft",
+				"daftar_buku_ids"
+			],
+			[
+				"pemin",
+				"peminjaman"
+			],
+			[
+				"ta",
+				"tanggal_pinjam"
+			],
+			[
+				"peminjam",
+				"peminjaman_id"
+			],
+			[
+				"not",
+				"no_telpon"
+			],
+			[
+				"train",
+				"training"
+			],
+			[
+				"tra",
+				"trainer_id"
+			],
+			[
+				"atten",
+				"attendees"
+			],
+			[
+				"In",
+				"Integer"
+			],
+			[
+				"a",
+				"api"
+			],
+			[
+				"mode",
+				"models"
+			],
+			[
+				"tr",
+				"trainer_id"
+			],
+			[
+				"atte",
+				"attendees"
+			],
+			[
+				"attend",
+				"attendee_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"install package control",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 207.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/__manifest__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/static/src/js/select_mail_tag.js",
+		"/home/falinwa/CLuedoo-14/create_and_edit_many2one/views/web_client_template.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/views/asset.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/xml/composer.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/js/many2many_tags_email.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/static/src/xml/select_mail_tag.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/activity_box/activity_box.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/activity/activity.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/views/assets.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/wizard/invite_view.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/follower_subtype_list/follower_subtype_list.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/chatter_topbar/chatter_topbar.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/discuss_sidebar_item/discuss_sidebar_item.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/follower_subtype_list/follower_subtype_list.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/follow_button/follow_button.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/attachment_viewer/attachment_viewer.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/attachment/attachment.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/activity/activity.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/notification_list/notification_list.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/composer_suggestion_list/composer_suggestion_list.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/follower_list_menu/follower_list_menu.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/wizard/mail_compose_message.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/sale/views/sale_views.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/wizard/mail_compose_message.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/follower_list_menu/follower_list_menu.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/wizard/invite.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/models/mail_thread.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/follower/follower.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/enterprise/documents/static/tests/documents_kanban_tests.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/activity_box/activity_box.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/models/fal_select_mail.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/wizard/mail_compose_message_views.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/models/mail_followers.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/additional_addons/mail_optional_follower_notification/models/mail_thread.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/additional_addons/mail_optional_follower_notification/tests/test_mail_optional_follower_notifications.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/wizard/mail_compose_message_view.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/odoo/addons/base/models/res_partner.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/account/wizard/account_invoice_send_views.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/js/activity.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/account/wizard/account_invoice_send.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/account/models/account_move.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/sale/models/sale.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/additional_addons/mail_optional_follower_notification/wizard/mail_compose_message_view.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/__init__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/models/__init__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_account_ext/views/account_view.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_account_config/views/res_config_settings_view_form.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_notice_follower/__manifest__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_notice_follower/wizard/fal_notice_follower.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_notice_follower/wizard/fal_notice_follower.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_notice_follower/wizard/__init__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_notice_follower/__init__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/wizard/__init__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_advanced_product_configurator/wizard/advanced_product_configurator.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/additional_addons/mail_optional_follower_notification/wizard/mail_compose_message.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_serial_number_analytic_resource/__manifest__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/views/fal_select_followers.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/models/fal_select_followers.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_access_right_editable_tree/__init__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/cron_failure_notification/models/logs_scheduled_actions.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/static/src/js/select_followers.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/follower_list_menu/follower_list_menu_tests.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/sale/models/res_company.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/models/sale.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/components/follower_list_menu/follower_list_menu.scss",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/sale/tests/test_sale_order.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/sale/models/mail_compose_message.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/static/src/xml/select_followers.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_invoice_milestone/static/src/xml/invoice_template.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_invoice_milestone/static/src/js/invoice_policy.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/purchase/views/purchase_views.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/purchase/static/src/js/purchase_toaster_button.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_invoice_milestone/models/sale.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_select_followers/static/src/js/followers_lists.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_invoice_milestone/views/sale_views.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mail/static/src/models/thread/thread.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_invoice_milestone/data/invoice_rule_template.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_invoice_milestone/models/account_analytic_account.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_invoice_milestone/models/fal_invoice_milestone.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_invoice_milestone/wizard/change_term_line.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/web/static/lib/benchmarkjs/lodash.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_invoice_milestone/views/fal_invoice_milestone_views.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_invoice_milestone/__manifest__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_invoice_milestone/wizard/invoice_milestone_wizard.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_invoice_milestone/wizard/view_invoice_milestone.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_invoice_milestone/views/res_config_settings.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/additional_addons/mail_optional_follower_notification/__manifest__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_alias_on_partner/models/res_partner.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/bi_sql_editor/models/bi_sql_view.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_mrp_plm/models/mrp_eco.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_Select_followers/models/fal_select_followers.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_Select_followers/__init__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_Select_followers/__manifest__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_Select_followers/models/__init__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/purchase_discount/models/purchase_order.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/purchase/models/purchase.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_survey_question_option/models/fal_survey_option.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_survey_group/models/fal_survey_group.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/survey/models/survey_question.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mrp/report/mrp_report_bom_structure.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/mrp/models/stock_move.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/odoo/tools/float_utils.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_survey_group/__init__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_payment_communication/models/account_journal.py",
+		"/home/falinwa/workspace/fal_purchase_discount/models/purchase_order.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_account_analytic_resource/views/account_analytic_resource.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_account_periods_lock/models/fal_account_periods_lock.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/point_of_sale/static/src/js/Screens/OrderManagementScreen/OrderRow.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/purchase_discount/__manifest__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/survey/models/survey_user.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_survey_group/views/fal_survey_group.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_purchase_delivery_fee/report/fal_report_purchaseorder_idf.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/cron_failure_notification/views/report.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_group_by_commercial/views/res_partner_view.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_survey_group/models/__init__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/survey/views/survey_question_views.xml",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_survey_group/__manifest__.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/sale_timesheet/models/project_overview.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/base_import/models/base_import.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/enterprise/account_consolidation/report/trial_balance.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/enterprise/account_consolidation/models/account_account.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/enterprise/l10n_be_reports/models/res_partner.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/web/static/lib/fullcalendar/core/main.js",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/odoo/tests/common.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/odoo/tools/misc.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/odoo/addons/web/controllers/main.py",
+		"/home/falinwa/workspace/docker-14/volumes/odoo_data/specific_addons/falinwa/fal_survey_question_option/views/fal_survey_option.xml"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 170.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mail_compose_message.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 740.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 522.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
