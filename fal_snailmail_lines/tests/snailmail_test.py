@@ -23,7 +23,6 @@ class SnailmailLinesTest(TestPingenSend):
         	'is_email': False,
         	'is_print': False,
         	})
-        _logger.info(self.letter, "ppppppppppppp")
 
 
         self.send_and_print_action()
