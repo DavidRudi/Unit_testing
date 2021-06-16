@@ -6,6 +6,8 @@ from odoo.tests import tagged
 
 class SelectFollowers(common.SavepointCase):
     def test_select_followers(self):
+        active_id = self._context.get('active_id')
+        model = self._context.get('active_model')
         select_tag = self.env['mail.compose.message'].create(
             {
                 # "res_partner": "res.partner"
@@ -13,7 +15,7 @@ class SelectFollowers(common.SavepointCase):
         search_partner = self.env['res.partner'].search([])
         self.select_tag.with_context(
         		"active_id" : "partner.id",
-        		"active_model" : "res.partner"
+        		"model" : "res.partner"
         	).get_followers()
 
         self.select_tag.with_context(
