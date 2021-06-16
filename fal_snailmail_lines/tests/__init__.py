@@ -1,1 +1,1 @@
-from . import snailmail_test
+from . import test_snailmail
