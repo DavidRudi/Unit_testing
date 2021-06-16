@@ -9,11 +9,10 @@ class SnailmailLinesTest(TestPingenSend):
     def setUp(self):
         invoices = []
         for i in range(2):
-            invoice = []
-            invoice.pingen_url = "https://stage-api.pingen.com/document/upload/token/30fc3947dbea4792eb12548b41ec8117/"
-            invoice.sample_invoice = self.create_invoice()
-            invoice.sample_invoice.partner_id.vat = "BE000000000"
-            invoices.append(invoice)
+            self.pingen_url = "https://stage-api.pingen.com/document/upload/token/30fc3947dbea4792eb12548b41ec8117/"
+            self.sample_invoice = self.create_invoice()
+            self.sample_invoice.partner_id.vat = "BE000000000"
+            invoices.append(self)
             _logger.info(invoices.id,"ID Invoice")
 
         self.letter = self.env['account.invoice.send'].create({
