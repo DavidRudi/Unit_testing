@@ -32,7 +32,7 @@ class SnailmailLetter(models.Model):
                         merger.append(PdfFileReader(io.BytesIO(base64.b64decode(snailmail_line.document)), strict=False, overwriteWarnings=False), import_bookmarks=False)
                 merger.write(output)
                 merger.close()
-                merge.attachment_datas = base64.b64encode(output.getvalue())
+                merge.attachment_datas = base64.b64encode(output.getvalue(),'pdf')
             else:
                 if merge.attachment_id:
                     merge.attachment_datas = merge.attachment_id.datas
