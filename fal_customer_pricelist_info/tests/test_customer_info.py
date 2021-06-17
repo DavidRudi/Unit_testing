@@ -6,6 +6,10 @@ class CustomerPricelistTest(TestPricelist):
 
 	def setUp(self):
 		res = super(CustomerPricelistTest, self).setUp()
+
+        self.usb_adapter = self.env['product.product'].create({'name': 'Office Chair'})
+
+
 		self.sale_pricelist_id = self.env['product.pricelist'].create({
             'name': 'Sale pricelist',
             'item_ids': [(0, 0, {
@@ -19,5 +23,7 @@ class CustomerPricelistTest(TestPricelist):
 				'customer_reference': 'test reference',
             })]
         })
-		return res
+        self.assertEqual(self.sale_pricelist_id.item_ids[0].customer_name, 'test name')
+        self.assertEqual(self.sale_pricelist_id.item_ids[0].customer_ean, 'test ean')
+		self.assertEqual(self.sale_pricelist_id.item_ids[0].customer_reference, 'test reference')
 		

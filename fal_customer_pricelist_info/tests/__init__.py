@@ -1,1 +1,1 @@
-from . import fal_pricelist_test
+from . import test_customer_info
